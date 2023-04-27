@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu';
+    background-image: url('./img/body.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* body{
+    background-image: url(./img/body.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.nav-link{
+    color: white;
+    padding-left: 50px !important;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: white
+}
+
+.fa-folder-magnifying-glass{
+    color: white;
+}
+
+.btn{
+    color: white;
+    margin-left: 30px;
+}
+
+/* .section1{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(12, 3, 51, 0.3), rgba(12, 3, 51, 0.3));
+    position: relative;
+    padding: 0 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.slideSection{
+    width: 100%;
+}
+.section1{
+    position: relative;
+}
+
+.dive{
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 45px;
+color: white;
+margin-top: -400px;
+margin-left: 40px;
+width: 360px;
+}
+
+.start{
+    margin-top: 50px;
+margin-left: 40px;
+background: #E13C52;
+border-radius: 60px;
+padding: 7px 30px;
+color: white;
+}
+.section2{
+    margin-top: 165px;
+
+}
+.channelcard{
+    background-image:url('./img/image 20.png');
+    background-size: contain;
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard1{
+    background-size: contain;
+    background-image:url('./img/image 20 (1).png');
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard2{
+    background-size: contain;
+    background-image:url('./img/image 20 (2).png');
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard3{
+    background-size: contain;
+    background-image:url('./img/image 20 (3).png');
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard4{
+    background-size: contain;
+    background-image:url('./img/image 20 (4).png');
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard5{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    background-image:url('./img/image 20 (5).png');
+   height:200px;
+    margin: auto;
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+
+.imgCard{
+    width: 30%;
+margin-top: 130px;
+margin-left: 116px;
+}
+
+.channel1{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    color: white;  
+    padding-bottom: 20px;
+}
+
+.channelcard6{
+    background-image:url('./img/image 20 6.png');
+    background-size: contain;
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard7{
+    background-size: contain;
+    background-image:url('./img/image 20 (7).png');
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard8{
+    background-size: contain;
+    background-image:url('./img/image 20 (1).png');
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard9{
+    background-size: contain;
+    background-image:url('./img/image 20 (9).png');
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard10{
+    background-size: contain;
+    background-image:url('./img/image 20 (5).png');
+   height:200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.channelcard11{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    background-image:url('./img/image 20 (11).png');
+   height:200px;
+    margin: auto;
+    position: relative;
+    border-radius: 15px;
+    border: none;
+}
+.section3{
+    padding-top: 20px;
+}
+
+.MovieCards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.movieImg{
+    width: 170px;
+}
+.section4{
+    padding-top: 20px;
+}
+.section5{
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+.movie :hover{
+    width: 300px;
+    transition: 01s;
+}
+
+.gameImg{
+width: 160px;
+border-radius: 15px;
+}
+
+
+.GameCards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
